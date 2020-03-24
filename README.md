@@ -1,6 +1,6 @@
 # CF-Flying
-CF手游飞天、高跳功能，，仅适用雷电模拟器
-使用Python+[`大漠插件`](https://github.com/bode135/pydamo "跳转到pydamo项目")实现，
+CF手游飞天、高跳功能，仅适用雷电模拟器。
+使用Python+[`大漠插件`](https://github.com/bode135/pydamo "跳转到pydamo项目")实现。
 使用效果和CE查找特征码教程参考blibli视频。
 
 ## 使用前提
