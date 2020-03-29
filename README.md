@@ -1,7 +1,7 @@
 # CF-Flying
 CF手游飞天、高跳功能，仅适用雷电模拟器3.83版本。
-使用Python+[`大漠插件`](https://github.com/bode135/pydamo "跳转到pydamo项目")实现。
-使用效果和CE查找特征码教程参考[`bilibili视频`](https://www.bilibili.com/video/BV1M741127Bi "跳转到bilibili视频")。
+    使用Python+[`大漠插件`](https://github.com/bode135/pydamo "跳转到pydamo项目")实现。
+    使用效果和CE查找特征码教程参考[`bilibili视频`](https://www.bilibili.com/video/BV1M741127Bi "跳转到bilibili视频")。
 
 ## 使用前提
     1、使用管理员权限注册dm.dll
